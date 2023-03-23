@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaelenL
 - 👀 I’m interested in technology and growing my knowledge 
-- 🌱 I’m currently learning HTML and SQL
-- 💞️ I’m looking to collaborate on anyhting that i can be apart of
+- 🌱 I’m currently learning HTML, SQL, C++, and Javascript
+- 💞️ I’m looking to collaborate on anyhting that I can be apart of
 - 📫 How to reach me is my email jaelen54@gmail.com 
 
 <!---
